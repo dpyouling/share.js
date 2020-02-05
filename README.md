@@ -4,9 +4,16 @@ Share.js
 > 🚨 此项目已经年久失修，其实分享就是一个个链接而已，每个链接里传递一些内容，所以定制需求比较高的话建议自己实现，没啥难度。
 > URL 写法请参考：https://github.com/overtrue/share.js/blob/master/src/js/social-share.js#L56-L64
 
-一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等社交网站。
+本人为了在自己博客添加分享，因此在园项目的基础去掉原有的不用的链接 比如点点、谷歌、腾讯微博。
 
-![qq20151127-1 2x](https://cloud.githubusercontent.com/assets/1472352/11433126/05f8b0e0-94f4-11e5-9fca-74dc9d1b633f.png)
+现在只剩微博、QQ空间、QQ好友、微信、豆瓣、Facebook、Twitter、Linkedin。查看效果http://zabbx.cn/ 里面文章查看效果
+
+网页直接调用下面的链接：
+
+ https://cdn.jsdelivr.net/gh/dpyouling/share.js@v1.0.4/dist/js/social-share.min.js
+ 
+ https://cdn.jsdelivr.net/gh/dpyouling/share.js@v1.0.4/dist/css/share.min.css
+ 
 
 
 # 安装
