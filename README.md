@@ -10,9 +10,9 @@ Share.js
 
 网页直接调用下面的链接：
 
- https://cdn.jsdelivr.net/gh/dpyouling/share.js@v1.0.4/dist/js/social-share.min.js
+ https://cdn.jsdelivr.net/gh/dpyouling/share.js@v2.0.0/dist/js/social-share.min.js
  
- https://cdn.jsdelivr.net/gh/dpyouling/share.js@v1.0.4/dist/css/share.min.css
+ https://cdn.jsdelivr.net/gh/dpyouling/share.js@v2.0.0/dist/css/share.min.css
  
 
 
